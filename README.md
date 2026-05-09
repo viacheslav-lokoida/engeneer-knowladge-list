@@ -10,4 +10,4 @@
 - https://x.com/GoogleCloudTech/status/2033953579824758855?s=20
 
 ## High load
-- https://www.youtube.com/watch?v=W4EwfEU8CGA
+- [Let’s Handle 1 Million Requests per Second, It’s Scarier Than You Think!](https://www.youtube.com/watch?v=W4EwfEU8CGA)
